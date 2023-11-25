@@ -1,0 +1,16 @@
+{
+  "name": "tugas-akhir",
+  "version": "1.0.0",
+  "description": "tugas akhir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/server.js"
+  },
+  "author": "Gede Agus Supriatmaja",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "nanoid": "^3.3.7"
+  }
+}
